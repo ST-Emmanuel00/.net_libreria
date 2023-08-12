@@ -15,30 +15,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Ingenieria ⚠\Desktop\C#\Libreria
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Libro/CrearLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cQ3JlYXJMaWJyby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Libro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-u3wxl3hf31
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ingenieria ⚠/Desktop/C\#/Libreria/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6c52mou3ym
