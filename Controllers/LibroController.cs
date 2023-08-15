@@ -28,5 +28,20 @@ namespace Libreria.Controllers
             return View();
         }
 
+        [HttpPost]
+        public IActionResult CrearLibro(Libro libro)
+        {
+
+            if (ModelState.IsValid)
+            {
+                _context.libro.Add(libro);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+
+            }
+
+            return View();
+        }
+
     }
 }
