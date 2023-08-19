@@ -1,0 +1,28 @@
+﻿
+@model Libreria.Models.Libro;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<body class="light">
+  <div class="wrapper vh-100">
+    <div class="align-items-center h-100 d-flex w-50 mx-auto">
+      <div class="mx-auto text-center">
+        <h3 class="display-1 m-0 font-weight-bolder text-muted" style="font-size:80px;">¿Seguro?</h3>
+        <h4 class="mb-1 text-muted font-weight-bold">¿Quieres eliminar este libro?</h4>
+        <h6 class="mb-3 text-muted"> Vas a eliminar al libro titulado @Model.titulo escrito por @Model.autor</h6>
+
+        <form asp-action="Delete">
+          <input type="hidden" asp-for="id" />
+          <input type="submit" value="Eliminar definitivamente" class="btn btn-lg btn-secondary px-5" />
+          <a asp-action="Index" class="btn btn-lg btn-primary px-5">Regresar</a>
+        </form>
+
+        
+      </div>
+    </div>
+  </div>
+</body>

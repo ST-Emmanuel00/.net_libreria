@@ -1,7 +1,7 @@
 ﻿@model Libreria.Models.Libro;
 @{
-    ViewData["Title"] = "Crear Libro";
-    ViewData["Boton"] = "Crear libro";
+    ViewData["Title"] = "Editar Libro";
+    ViewData["Boton"] = "Editar libro";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <div class="container-fluid">
@@ -14,7 +14,7 @@
                 <div class="row">
                   <div class="modal-body p-4">
 
-                      <form method="post" asp-action="CrearLibro">
+                      <form method="post" asp-action="EditarLibro">
 
                           <div class="form-group mb-3">
                             <label asp-for="titulo" >Titulo</label>
@@ -47,8 +47,8 @@
                           </div>
 
 
-                           <input id="boton_crear" type="submit" class="btn mb-2 btn-primary btn-block" value="@ViewData["Boton"] ">
-                               <span class="fe mr-2"></span> 
+                           <input id="boton_crear" type="submit" class="btn mb-2 btn-primary btn-block" value="@ViewData["Boton"]">
+                               <span class="fe mr-2">  </span>
                            </input>
                            <a asp-controller="Libro" asp-action="index" >
                                <button id="regresar" type="button"
@@ -60,7 +60,7 @@
                      </div>
                  </div>
               </div> <!-- / .card -->
-@*
+                @*
 @section Script{
 
     @{ <partial name="_Valo "> }
